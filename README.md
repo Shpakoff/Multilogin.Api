@@ -53,9 +53,3 @@ webDriver.Quit();
 # Example codes
 All examples can be found in the [testing project](https://github.com/earthlion/Multilogin.Api/tree/main/Multilogin.Api.Tests).
 If you have any questions, feel free to open an issue on Github.
-
-# Credits
-🧍 [Me](https://github.com/earthlion) - API<br/>
-
-# License
-This project is released under MIT License. Please refer the LICENSE.txt for more details.
