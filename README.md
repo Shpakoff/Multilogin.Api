@@ -1,12 +1,6 @@
-<img src="https://multilogin.com/wp-content/themes/multilogin/dist/images/logo-blue_0d908f50.svg" width="150" align="right" />
-
 # Multilogin API Client
 [Multilogin](https://multilogin.com/) is a complete and integrated solution for browser fingerprinting protection, and also for easy browser automation using W3C WebDriver. 
 This .NET Core package provides convenient access to the REST interface of the Multilogin aka. Indigo Client.
-
-Consider giving it a ⭐ on Github, it was a lot of work.
-
-[🌎 Nuget](https://www.nuget.org/packages/Multilogin.Api)
 
 # Features
 - Fully customizable browser fingerprint (Indigo/Multilogin) ([What is a browser fingerprint?](https://en.wikipedia.org/wiki/Device_fingerprint#Browser_fingerprint))
